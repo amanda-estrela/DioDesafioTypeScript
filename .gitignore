@@ -1,0 +1,4 @@
+nome_modules
+app.js
+**/*.js
+**/*.js.map
